@@ -129,7 +129,6 @@
 "<input type=file name=upfile> <input type=submit value=Upload>",
 "<span>Upload file:</span> <font color='green'>(Writeable)</font>",
 "file_get_contents(https://raw.githubusercontent.com/Den1xxx/Filemanager/master/languages/en.json)",
-"CMS: ",
 "MARIJUANA",
 "<title>Mister Spy</title>",
 "FilesTools",
